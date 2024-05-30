@@ -1,3 +1,3 @@
 
-<b>High order calculation</b>
+<b>High order calculation of Matrices</b>
 
